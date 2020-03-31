@@ -29,9 +29,6 @@ This section contains an overview of the steps required to prepare your environm
    - HTTPS: 443
    - HTTP: 80
    - If your network runs through a proxy, you'll need the proxy address or script information as well.
-    
-     > [!NOTE]
-     > Microsoft Teams Rooms does not support HDCP input, which has been observed to cause issues with HDMI ingest functionality (video, audio). Take care to ensure that switches connected to Microsoft Teams Rooms have HDCP options turned off.
   
 3. In order to improve your experience, Microsoft collects data. To allow Microsoft to collect data, whitelist these sites:
 
